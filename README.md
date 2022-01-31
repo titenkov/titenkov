@@ -1,13 +1,16 @@
-## Hey! 👋
+### Hey! 👋
 
-I'm Pavel, nice to meet you! I'm a software engineer with a strong background in computer science. I help development teams to succeed by making the development process more enjoyable ✨
+I'm Pavel, nice to meet you!
 
-👨‍💻&nbsp; I’m currently working as System Architect at 🏗&nbsp; [Tribia](https://www.tribia.com/)
+🪄&nbsp; Mediocre software engineer, who usually creates more problems than solve
 
-🏡&nbsp; Live in Oslo, Norway
+👨‍💻&nbsp; Work as System Architect at 🏗&nbsp; [Tribia](https://www.tribia.com/)
 
-❤️&nbsp; Belarus is my motherland
+🇳🇴&nbsp; Try to survive in Oslo
 
 📫&nbsp; You can reach me at pavel@titenkov.com
 
-⬜️🟥⬜️
+&nbsp;
+
+###### ⬜️🟥⬜️
+###### Ну калi ужо?
