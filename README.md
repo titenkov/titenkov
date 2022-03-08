@@ -6,8 +6,6 @@ I'm Pavel, nice to meet you!
 
 👨‍💻&nbsp; Work as System Architect at 🏗&nbsp; [Tribia](https://www.tribia.com/)
 
-🇳🇴&nbsp; Try to survive in Oslo
-
 📫&nbsp; You can reach me at pavel@titenkov.com
 
 &nbsp;
