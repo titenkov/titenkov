@@ -2,7 +2,9 @@
 
 I'm Pavel, nice to meet you!
 
-🪄&nbsp; Mediocre software engineer, who usually creates more problems than solves
+🪄&nbsp; Mediocre software engineer
+
+🖤&nbsp; Enjoy building products
 
 👨‍💻&nbsp; Work as System Architect at 🏗&nbsp; [Tribia](https://www.tribia.com/)
 
