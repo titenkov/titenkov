@@ -2,9 +2,9 @@
 
 I'm Pavel, nice to meet you!
 
-🪄&nbsp; Mediocre software engineer
+🪄&nbsp; Software engineer
 
-🖤&nbsp; Enjoy building products
+🖤&nbsp; Enjoy building products and happy engineering teams
 
 👨‍💻&nbsp; Work as System Architect at 🏗&nbsp; [Tribia](https://www.tribia.com/)
 
