@@ -11,6 +11,5 @@ I'm Pavel, nice to meet you!
 📫&nbsp; You can reach me at pavel@titenkov.com
 
 &nbsp;
-
-###### #FFF #F00 #FFF
 ###### Ну калі ўжо?
+###### #FFF #F00 #FFF
