@@ -9,7 +9,5 @@ I'm Pavel, nice to meet you!
 👨‍💻&nbsp; [Engineering Manager](https://www.linkedin.com/in/titenkov) at [Tribia](https://www.tribia.com/)
 
 📫&nbsp; You can reach me at pavel@titenkov.com
-
 &nbsp;
-###### Ну калі ўжо?
 ###### #FFF #F00 #FFF
